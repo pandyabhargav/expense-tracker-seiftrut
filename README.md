@@ -29,7 +29,7 @@ A React-based application for managing financial transactions, allowing users to
 ## Frontend
 
 **cd frontend**
-=
+
 **npm i**
 
 **npm run dev**
